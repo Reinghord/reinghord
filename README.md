@@ -13,8 +13,17 @@
 - 🎮 My hobbies are video games, hiking
 - 💌 You can write to me at nikitakutelmakh@gmail.com
 - 🌈 My dream is that I create a self-sustainable game
-- 😃 Fun fact about me all my cats were called upon Mortal Kombat characters
+- 😃 Fun fact about me all my cats were called after Mortal Kombat characters
 - 😽 I have pet a cat named Raiden
+
+ 
+## 📰 Social links
+ - [LinkedIn](https://www.linkedin.com/in/mykyta-kutelmakh/)
+ - [Telegram](https://t.me/reinghord)
+
+
+## 👾 GitHub widgets
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reinghord&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
 
 ## 🔨 Skills
@@ -47,13 +56,7 @@
 
 <br/>
 
-## 📰 Social links
- - [LinkedIn](https://www.linkedin.com/in/mykyta-kutelmakh/)
- - [Telegram](https://t.me/reinghord)
 
-
-## 👾 GitHub widgets
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reinghord&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
 
 
