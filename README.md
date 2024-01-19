@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is Mykyta</p>
+#<p align="center"> 🏠 Hello👋, my name is Mykyta</p>
 ### I am studying full-stack development at GOIT-Academy
 
 
@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-- 📖 I`m learning Node.js
+- 📖 Currently, I`m learning Node.js, TypeScript
 - 🎮 My hobbies are video games, hiking
 - 💌 You can write to me at nikitakutelmakh@gmail.com
 - 🌈 My dream is that I create a self-sustainable game
