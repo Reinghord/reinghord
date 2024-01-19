@@ -1,6 +1,7 @@
 
-#<p align="center"> 🏠 Hello👋, my name is Mykyta</p>
-### I am studying full-stack development at GOIT-Academy
+<p align="center"># 🏠 Hello👋, my name is Mykyta
+### I am studying full-stack development at GOIT-Academy</p>
+
 
 
 ## 📲 My Links
