@@ -1,6 +1,6 @@
 
-# <p align="center"> 🏠 Hello👋, my name is Mykyta</br>
-### I am studying full-stack development at GOIT-Academy</p>
+#  <p align="center">🏠 Hello👋, my name is Mykyta</p></br>
+### <p align="center">I am studying full-stack development at GOIT-Academy</p>
 
 
 
