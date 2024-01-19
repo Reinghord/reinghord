@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is Mykyta</br>
+# <p align="center"> 🏠 Hello👋, my name is Mykyta</br>
 ### I am studying full-stack development at GOIT-Academy</p>
 
 
