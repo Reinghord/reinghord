@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-- 📖 Currently, I`m learning Node.js, TypeScript
+- 📖 Currently, I`m learning WebSockets, Socket.io
 - 🎮 My hobbies are video games, hiking
 - 💌 You can write to me at nikitakutelmakh@gmail.com
 - 🌈 My dream is that I create a self-sustainable game
