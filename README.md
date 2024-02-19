@@ -6,7 +6,7 @@
 
 ## 📲 My Links
 
-- 🎨 My latest project is [SlimMom](https://reinghord.github.io/goit-react-health-project/)
+- 🎨 My latest project is [QuizMaster](https://banana-troop.vercel.app/)
 
 ## 💡 About Me
 
